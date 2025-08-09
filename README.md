@@ -1,4 +1,4 @@
-# SMS-BOMB 🔥📱
+# S-BOMB 🔥📱
 
 A Python-based educational SMS bombing tool, designed **for learning and testing purposes only**.
 
@@ -25,8 +25,8 @@ pkg install python git
 
 4. Clone the Project
 ```bash
-git clone https://github.com/lucifer-fernandez/SMS-BOMB.git
-cd SMS-BOMB
+git clone https://github.com/lucifer-fernandez/S-BOMB.git
+cd S-BOMB
 ```
 
 5. Install Python Dependencies
