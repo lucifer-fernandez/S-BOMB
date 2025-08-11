@@ -36,7 +36,7 @@ pip install requests
 
 6. Run the Tool
 ```bash
-python bomb.py
+python s-bomb.py
 ```
 
 
@@ -68,8 +68,14 @@ MIT License – free to use with proper credit.
 
 ---
 
-👨‍💻 Author
+📧 Contact
 
-Created by Mohammad Rayhan Khan
-Telegram: 
-@rayhankhan4you
+Facebook: [Mohammad Rayhan Khan](https://www.facebook.com/azad.farabi.2024)
+
+GitHub: [lucifer-fernandez](https://github.com/lucifer-fernandez)
+
+Telegram : [Md Rayhan Khan](@rayhankhan4you)
+
+Gmail: [G-mail](rayhankhan4u@gmail.com)
+
+Youtube: [Cyber Tesla](https://youtube.com/@cyber_tesla?si=cNaVnhQ1YvGzKYj3)
